@@ -1,0 +1,4 @@
+AN GUI app that has 4-6 buttons each buttons opens a a seperate python file. (ex: face detection, etc)
+
+
+
